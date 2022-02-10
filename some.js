@@ -15,7 +15,7 @@ console.log('answer2', answer2);
 
 const orders = [
   {
-    customerName: 'ALberto',
+    customerName: 'Alberto',
     total: 70,
     delivered: true
   },
